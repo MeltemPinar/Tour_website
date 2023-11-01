@@ -2,7 +2,8 @@
 
 This project aims to create a travel organization website using HTML5 and CSS3 technologies.
 
-![ezgif com-video-to-gif](https://github.com/MeltemPinar/Tour_website/assets/147662901/c960be81-a8b9-47e7-a12c-859e010897fc)
+![ezgif com-video-to-gif (1)](https://github.com/MeltemPinar/Tour_website/assets/147662901/844118c9-d60a-4074-8ab2-41b5d528f184)
+
 
 This website represents the online presence of a company offering travel organization services. The site provides access to important information such as places to visit, services and contact details.
 
